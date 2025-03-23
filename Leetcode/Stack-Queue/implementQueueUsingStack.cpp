@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/implement-queue-using-stacks/description/
+
 class MyQueue {
 public:
     stack<int> st;
